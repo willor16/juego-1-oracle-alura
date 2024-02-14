@@ -1,5 +1,5 @@
 let max =10, min =1;
-let numerosSorteados = [1,2,3,4,5,6,7,8,9];
+let numerosSorteados = [];
 let numeroSecreto= numeroAleatorio();
 let botonIniciar = document.querySelector('#btnIntentar');
 let botonReniciar = document.querySelector('#reiniciar');
